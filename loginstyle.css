@@ -1,0 +1,110 @@
+html, body {
+    width: 100%;
+
+}
+body {
+    background: url('./backgroundimg/background2.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: 100% 100%;
+    -o-background-size: cover;
+  }
+
+.navbar{
+    background-color: #4682B4 !important;
+    opacity: 0.9;
+}
+
+.navbar li a {
+    color: white !important;
+}
+
+.navbar li a:hover {
+    color: #a9a9a9  ;
+    opacity: 1.0 !important;
+}
+
+#slides{
+    margin-top: 2%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.col .col-md-8{
+    margin-top: 25%;
+}
+
+.carousel-indicators, .carousel-inner{
+    border-radius: 15px;;
+
+}
+
+
+.col{
+    /*border: 1px solid coral;*/
+    width: 100px;
+    min-height: 250px;
+    
+
+}
+
+/*Boosnipp*/
+
+
+.login-container{
+    margin-top: 20%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+}
+.login-form-1{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    background-color: #fff;
+    min-height: 350px;
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+    opacity: 0.8;
+}
+
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    
+    font-weight: 600;
+    color: #fff;
+    background-color: #4682B4;
+    height: 35px;
+    line-height: 25px;
+    
+}
+.mycentered-text{
+    display: flex;
+    justify-content: center;
+
+}
+
+.form-group{
+    padding: 5px;
+}
+
+.login-form-1 .ForgetPwd{
+    display: flex;
+    color: #4682B4;
+    font-weight: 600;
+    text-decoration: none;
+    justify-content: center;
+    
+}
+/* FOOTER*/

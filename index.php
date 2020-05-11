@@ -1,0 +1,292 @@
+<?php include_once("./header.php") ?>
+
+<!--Carousel-->
+<div class="container pb-5 pt-5">
+            <div id="demo" class="carousel slide" data-ride="carousel">
+                <ul class="carousel-indicators">
+                    <li data-target="#demo" data-slide-to="0" class="active"></li>
+                    <li data-target="#demo" data-slide-to="1"></li>
+                    <li data-target="#demo" data-slide-to="2"></li>
+                </ul>
+
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="Logo/hoithao.png" alt="Los Angeles" width="1100" height="500">
+                            <div class="carousel-caption">
+                                    <div class="caption">
+                                        <h3>Tên sự kiện</h3>
+                                        <p>Mô tả ngắn gọn sự kiện</p>
+                                    </div>
+                            </div>   
+                        </div>
+
+
+                        <div class="carousel-item">
+                            <img src="Logo/moitruong.png" alt="Chicago" width="1100" height="500">
+                            <div class="carousel-caption">
+                                    <div class="caption">
+                                        <h3>Tên sự kiện</h3>
+                                        <p>Mô tả ngắn gọn sự kiện</p>
+                                    </div>
+                            </div>   
+                        </div>
+
+
+                        <div class="carousel-item">
+                            <img src="Logo/hoithao.png" alt="New York" width="1100" height="500">
+                            <div class="carousel-caption">
+                                <div class="caption">
+                                    <h3>Tên sự kiện</h3>
+                                    <p>Mô tả ngắn gọn sự kiện</p>
+                                </div>
+                            </div>   
+                        </div>
+                    </div>
+
+
+                    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#demo" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                    </a>
+            </div>
+        </div>
+
+<!--Tầm nhìn, sứ mệnh và phương châm-->       
+        <div class="container-fluid pt-3 pb-5">
+            <div class="row">
+                <div class="col-md-4 col-sm-12 col-12 text-center pl-4 pr-4">
+                    <div class="quote1">
+                        <img class="mt-2 mb-4" src="Logo/ongnhom.png" height="50" width="50">
+                        <h3>Tầm nhìn</h3>
+                        <p>Tầm nhìn đến năm 2020, Khoa là đơn vị đào tạo và nghiên cứu khoa học về CNTT&TT mạnh của cả nước, có vai trò nòng cốt trong đào tạo, nghiên cứu và chuyển giao công nghệ cho vùng Đồng bằng sông Cửu Long (ĐBSCL) và khu vực phía nam, đạt chuẩn chất lượng đào tạo theo các chuẩn mực của các trường đại học tiên tiến và các tổ chức kiểm định chất lượng giáo dục trong khu vực và thế giới.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 col-12 text-center pl-4 pr-4">
+                    <div class="quote2">
+                            <img class="mt-2 mb-4" src="Logo/diamond.png" height="50" width="50">
+                            <h3>Sứ mệnh</h3>
+                            <p> Sứ mệnh của Khoa Công Nghệ Thông Tin & Truyền Thông là đào tạo đại học, sau đại học, nghiên cứu khoa học và chuyển giao công nghệ trong lĩnh vực CNTT&TT.. Đảm bảo nguồn nhân lực chất lượng và hiệu quả, chi phí du học hợp lý, tỉ lệ đỗ visa du học cao, giúp học sinh, sinh viên yên tâm hoàn thành mục tiêu đặt ra trong thời gian ngắn nhất.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 col-12 text-center pl-4 pr-4">
+                    <div class="quote3">
+                            <img class="mt-2 mb-4" src="Logo/chienluoc.png" height="50" width="50">
+                            <h3>Phương châm</h3>
+                            <p>Khoa Khoa Công Nghệ Thông Tin & Truyền Thông hoạt động với phương châm đặt lợi ích của sinh viên được đặt lên hàng đầu và luôn luôn đổi mới luôn luôn sáng tạo để tiếp cận những công nghệ, kỹ thuật mới. Định hướng tương lai giúp sinh viên có thể học tập, quyết định ngành học cũng như lựa chọn công việc phù hợp sở thích, tiềm năng của bản thân.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!--Các số liệu ấn tượng-->        
+        <div class = "nenxam container-fluid pt-5 pb-3 mt-5">
+                <div class="container text-center">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 col-12 p-2  ">
+                            <div class="box-object ml-auto mr-auto p-4 wow zoomIn" data-wow-delay="0.3s" ><img width="86" height="86" src="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/unnamed.png" class="attachment-original size-original pb-1" alt="" srcset="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/unnamed.png 300w, http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/unnamed-150x150.png 150w, http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/unnamed-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px"><h3><strong>100%</strong></h3> Việc Làm</div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-12 p-2 ">
+                            <div class="box-object ml-auto mr-auto p-4 wow zoomIn" data-wow-delay="0.3s"><img width="90" height="94" src="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/download.jpeg" class="attachment-original size-original pb-1" alt="" srcset="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/download.jpeg 225w, http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/download-150x150.jpeg 150w, http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/download-100x100.jpeg 100w" sizes="(max-width: 225px) 100vw, 225px"> <h3><strong>15%</strong></h3>  Sinh viên làm việc ở <br> nươc ngoài</p></div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-12 p-2 ">
+                            <div class="box-object ml-auto mr-auto p-4 wow zoomIn" data-wow-delay="0.3s"><img width="90" height="94" src="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/law-icon-1.jpg" class="attachment-original size-original pb-1" alt=""> <h3><strong>Liên kết</strong></h3>  30 trường ĐH trên <br> thế giới</div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-12 p-2 ">
+                            <div class="box-object ml-auto mr-auto p-4 wow zoomIn" data-wow-delay="0.3s"><img width="90" height="94" src="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/handshake_icon-11.png" class="attachment-original size-original pb-1" alt="" srcset="http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/handshake_icon-11.png 300w, http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/handshake_icon-11-150x150.png 150w, http://mauweb.monamedia.net/fpt-hanoi/wp-content/uploads/2019/03/handshake_icon-11-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px"><h3><strong>68 doanh nghiệp</strong></h3>  Hợp tác đa lĩnh vực</div>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+
+<!--Câu nói của người đứng đầu (đại loại vậy)-->   
+        <div class="container-fluid text-center chamngon pt-5 pb-5">
+            <h2>"Mục tiêu của chúng tôi là đào tạo sinh viên đủ khả năng làm việc bất cứ đâu trên thế giới"</h2>
+            Trích lời PGS-TS.Phạm Nguyên Khang
+        </div>
+
+<!--Các ngành đào tạo-->
+        <div class="container-fluid pb-5">
+            <div class="container text-center pt-5 pb-5"><h2>CÁC NGÀNH ĐÀO TẠO</h2></div>
+            <div class="row">
+                <div class="col-md-2 col-sm-4 col-6 text-center ">
+                    <div class="box-object-majors wow fadeInUp zoom" data-wow-delay="0.3s"><img width="220" height="200" src="Logo/khmt.jpeg" class="attachment-original size-original " alt="" srcset="Logo/khmt.jpeg 300w, Logo/khmt.jpeg 150w, Logo/khmt.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"><br><h4>Khoa học máy tính</h4></div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-6 text-center ">
+                        <div class="box-object-majors wow fadeInUp zoom" data-wow-delay="0.4s"><img width="220" height="200" src="Logo/cntt.jpeg" class="attachment-original size-original " alt="" srcset="Logo/cntt.jpeg 300w, Logo/cntt.jpeg 150w, Logo/cntt.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"><br><h4>Công nghệ thông tin</h4></div>             
+                </div>
+                <div class="col-md-2 col-sm-4 col-6 text-center " >
+                        <div class="box-object-majors wow fadeInUp zoom" data-wow-delay="0.5s"><img width="220" height="200" src="Logo/ttmmt.jpeg" class="attachment-original size-original " alt="" srcset="Logo/ttmmt.jpeg 300w, Logo/ttmmt.jpeg 150w, Logo/ttmmt.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"><br><h4>Truyền thông & mạng máy tính</h4></div>           
+                </div>
+                <div class="col-md-2 col-sm-4 col-6 text-center ">
+                        <div class="box-object-majors wow fadeInUp zoom" data-wow-delay="0.6s"><img width="220" height="200" src="Logo/httt.jpeg" class="attachment-original size-original " alt="" srcset="Logo/httt.jpeg 300w, Logo/httt.jpeg 150w, Logo/httt.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"><br><h4>Hệ thống thông tin</h4></div>               
+                </div>
+                <div class="col-md-2 col-sm-4 col-6 text-center ">
+                        <div class="box-object-majors wow fadeInUp zoom" data-wow-delay="0.7s"><img width="220" height="200" src="Logo/cnpm.jpeg" class="attachment-original size-original " alt="" srcset="Logo/cnpm.jpeg 300w, Logo/cnpm.jpeg 150w, Logo/cnpm.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"><br><h4>Công nghệ phần mềm</h4></div>           
+                </div>
+                <div class="col-md-2 col-sm-4 col-6 text-center ">
+                        <div class="box-object-majors wow fadeInUp zoom" data-wow-delay="0.8s"><img width="220" height="200" src="Logo/thud.jpeg" class="attachment-original size-original " alt="" srcset="Logo/thud.jpeg 300w, Logo/thud.jpeg 150w, Logo/thud.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"><br><h4>Tin học ứng dụng</h4></div>           
+            
+                </div>
+            </div>
+        </div>
+
+<!--Băng rôn triết lý-->
+        <div class="container-fluid bangron text-center pt-5 pb-5">
+            <h2>VỚI TRIẾT LÝ GIÁO DỤC BLA BLA BLA GẮN LIỀN VỚI PHƯƠNG CHÂM BLA BLA BLA </h2>
+            <h2> KHOA CNTT&TT MONG MUỐN SINH VIÊN SẼ PHÁT HUY BLA BLA LBA  </h2>
+            <h2>NHẰM ĐẠT ĐƯỢC BLA BLA BLA </h2>
+            <br>
+            <hr  width="20%" size="15px" align="center" color="gold" />
+            <div class="container-fluid fix"></div>
+            <button type="button" class="btn btn-primary animated bounce" >ĐĂNG KÝ</button>
+        </div>
+        <div class="container-fluid fix"></div>
+
+        <div class="gap-element" style="display:block; height:auto; padding-top:60px"></div>
+
+<!--Sau tốt nghiệp-->
+        <div class="col-sm-12 col-12 wow bounceInRight pt-5 pb-5" >
+            <div class="col-inner text-center">
+                <h2><span style="color: #0071bb;">SINH VIÊN SAU TỐT NGHIỆP</span></h2>
+            </div>
+        </div>
+        <div class="container-fluid tuyensinh ">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-12 text-center wow slideInLeft">
+                        <img class="mt-2 mb-4" src="Logo/chuyenmon.png" height="80" width="80">
+                        <h3>Chuyên môn</h3>
+                        <p style="font-size: 20px">Lý thuyết vững vàng, thực hành thành thạo; 100% sinh viên tốt nghiệp tại khoa CNTT & TT có việc làm trong năm đầu tiên.</p>
+                </div>
+
+                <div class="col-md-4 col-sm-6 col-12 text-center wow slideInUp">
+                        <img class="mt-2 mb-4" src="Logo/skill.png" height="80" width="80">
+                        <h3>Kỹ năng</h3>
+                        <p style="font-size: 20px">Phát triển tối đa năng lực bản thân với các kỹ năng mềm cần thiết: Lập trình, làm việc nhóm, phân tích dự án... </p>
+                </div>
+
+                <div class="col-md-4 col-sm-6 col-12 text-center wow slideInRight">
+                        <img class="mt-2 mb-4" src="Logo/daoduc.png" height="80" width="80">
+                        <h3>Đạo đức</h3>
+                        <p style="font-size: 20px">Rèn luyện trong môi trường nghiêm túc: Hình thành tư duy chuẩn mực, thượng tôn pháp luật và tinh thần phụng sự cộng đồng.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="gap-element" style="display:block; height:auto; padding-top:60px"></div>
+
+
+
+<!--Thông tin tuyển sinh-->
+        <div class="col-12 col-sm-12 bounceInRight pb-5" >
+            <div class="col-inner text-center">
+            <h2><span style="color: #0071bb;">THÔNG TIN TUYỂN SINH</span></h2>
+        </div>
+
+
+        <div class="container-fluid tuyensinh pt-5 pb-5">
+            <div class="row">
+                <div class="col-md-5 col-sm-12 col-12 tuyensinh1 wow flipInX" data-wow-duration="2s" data-wow-delay="0.3s">
+                    <div class="post-item" >
+                            <img width="100%" class="zoom" height="auto" src="http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/photo-2-2499.jpg" class="attachment-original size-original wp-post-image" alt="" srcset="http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/photo-2-2499.jpg 800w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/photo-2-2499-300x188.jpg 300w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/photo-2-2499-768x480.jpg 768w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/photo-2-2499-600x375.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+                            <div class="carousel-caption">
+                                <div class="caption2">
+                                    <h4>Tên sự kiện</h4>
+                                    <p>Mô tả ngắn gọn sự kiện</p>
+                                </div>
+                        </div> 
+                    </div>
+                </div>
+
+                <div class="col-md-7 col-sm-12 col-12 " >
+
+                    <div class="col-md-12 col-sm-12 col-12 pb-3 wow bounceInRight"  data-wow-delay="0.3s" >
+                        <div class="post-item-right-1 row zoom">
+                            <div class="col-md-6 col-sm-6 col-6 ">
+                                    <img width="100%" height="auto"  src="http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban.png" class="attachment-original size-original wp-post-image" alt="" srcset="http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban.png 1000w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban-300x137.png 300w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban-768x352.png 768w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban-600x275.png 600w" sizes="(max-width: 1000px) 100vw, 1000px">
+                            </div>
+
+                            <div class="col-md-6 col-sm-6 col-6 ">
+                                    <h5><strong>THÔNG BÁO XÉT TUYỂN 2020</strong> </h5>
+                                    <hr  width="20%" size="15px" align="center" color="gold" />
+                                    Hình thức xét tuyển bằng học bạ trung học phổ thông...
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-12 col-sm-12 col-12  pt-3 wow bounceInRight"   data-wow-delay="0.5s">
+                        <div class="post-item-right-2 row zoom">
+                            <div class="col-md-6 col-sm-6 col-6 ">
+                                    <img width="100%" height="auto"  src="http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban.png" class="attachment-original size-original wp-post-image" alt="" srcset="http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban.png 1000w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban-300x137.png 300w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban-768x352.png 768w, http://mauweb.monamedia.net/blueuni/wp-content/uploads/2019/01/tuyen-sinh-du-hoc-Nhat-Ban-600x275.png 600w" sizes="(max-width: 1000px) 100vw, 1000px">
+                            </div>
+    
+                            <div class="col-md-6 col-sm-6 col-6 ">
+                                    <h5><strong>TUYỂN SINH CNTT CHẤT LƯỢNG CAO</strong> </h5>
+                                    <hr  width="20%" size="15px" align="center" color="gold" />
+                                    Hình thức xét tuyển bằng học bạ trung học phổ thông...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="gap-element" style="display:block; height:auto; padding-top:60px"></div>
+
+
+<!--Đơn vị hợp tác-->
+        <div class="row pt-5 pb-5">
+                <div class="col-md-3 col-sm-6 col-12" >
+                    <div class="col-inner text-center">
+                        <div class="animated wow jackInTheBox" data-wow-delay="0.3s">
+                            <div class="zoom">
+                                <img width="280" height="65" src="Logo/fpt.png" alt="" srcset="Logo/fpt.png 350w, Logo/fpt.png  300w" sizes="(max-width: 350px) 100vw, 350px">						
+                            </div>                           
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-3 col-sm-6 col-12" data-animate="bounceIn" data-animated="true">
+                    <div class="col-inner text-center">
+                        <div class="animated wow jackInTheBox " data-wow-delay="0.3s">
+                            <div class="zoom">
+                                <img width="138" height="86" src="Logo/starlogo.png" alt="" srcset="Logo/starlogo.png 350w, Logo/starlogo.png 300w" sizes="(max-width: 350px) 100vw, 350px">						
+                            </div>                           
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-3 col-sm-6 col-12" data-animate="bounceIn" data-animated="true">
+                    <div class="col-inner text-center">
+                        <div class="animated wow jackInTheBox " data-wow-delay="0.3s">
+                            <div class="zoom" >
+                                <img width="280" height="65" src="Logo/mslogo.jpg" alt="" srcset="Logo/mslogo.jpg 350w, Logo/mslogo.jpg 300w" sizes="(max-width: 350px) 100vw, 350px">						
+                            </div>                           
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <div class="col-md-3 col-sm-6 col-12">
+                    <div class="col-inner text-center">
+                        <div class="animated wow jackInTheBox " data-wow-delay="0.3s">
+                            <div class="zoom">
+                                <img width="210" height="85" src="Logo/aptechlogo.jpg" class="attachment-original size-original" alt="" srcset="Logo/aptechlogo.jpg 350w, Logo/aptechlogo.jpg 300w" sizes="(max-width: 350px) 100vw, 350px">						
+                            </div>                           
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+<?php include_once("./footer.php") ?>

@@ -1,0 +1,73 @@
+html, body {
+    width: 100%;
+
+}
+body {
+    background: url('./backgroundimg/background2.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: 100% 100%;
+    -o-background-size: cover;
+  }
+
+.navbar{
+    background-color: #4682B4 !important;
+    opacity: 0.9;
+}
+
+.navbar li a {
+    color: white !important;
+    font-size: 17px;
+
+}
+.navbar li{
+    padding-left:5px ;
+}
+
+.navbar li a:hover {
+    color: #a9a9a9  ;
+    opacity: 1.0 !important;
+}
+
+
+.form-horizontal{
+   /* border: 1px solid #a9a9a9;*/
+    border-radius: 10px ;
+    padding: 0px;
+
+    margin: 0px;
+}
+
+.h4{
+    padding : 10px;
+}
+
+.container-fluid{
+    display: flex;
+    flex-direction: row-reverse;
+    
+
+}
+.item  {
+    width: 430px;
+    
+
+}
+#textinput{
+    width: 300px;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
+
+
+ .control-label{
+    padding: 0px;
+    margin: 0px;
+}
+
+.card-body, .card{
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+}

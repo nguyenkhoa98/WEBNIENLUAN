@@ -1,0 +1,473 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.wrapper{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+.navbar{
+    background-color: rgba(70,130,180,0.9) !important;
+    opacity: 0.9;
+    display: flex; 
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.5);
+}
+
+
+
+.navbar li a {
+    width: 150px;
+    color: white !important;
+    opacity: 0.9;
+    
+}
+
+.navbar li a:hover {
+    color: rgba(0, 0, 0, 0.8);
+    opacity: 1.0 !important;
+    
+}
+
+
+.navbar .dropdown-item{
+    color: rgba(0, 0, 0, 0.8)  !important;
+}
+
+.navbar-light .navbar-nav .nav-link li a{
+    color: rgba(255,255,255,.9) !important;
+}
+a.nav-link{
+    width: 170px !important;
+}
+
+.carousel-inner img{
+    width: 100%;
+}
+
+.box-object{
+    height: 200px;
+    width: 260px;
+    background-color: white;
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.box-object h3{
+    font-family: 'Noto Serif', serif;
+    font-style: normal;
+}
+
+.chamngon h2{
+    font-family: 'Noto Serif', serif;
+    color:#CD853F;
+}
+
+.px-2 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.box-object-majoirs1 {
+    margin: 0px auto !important;
+    padding:0px 50px !important;
+}
+
+.bangron{
+    height: 350px !important;
+    background-color: darkslategrey;
+}
+
+.pt-6{
+    padding-top: 150px;
+}
+
+.bangron h2{
+    color:white !important;
+    font-family: 'Noto Serif', serif;
+}
+
+.bangron hr1{
+    color:yellow !important;
+}
+
+.btn{
+    font-weight: 600 !important;
+    color: white;
+    border-radius: 20px;
+}
+
+
+.divider{
+    margin-top:2.5em !important;
+    margin-bottom:2.5em !important;
+    max-width:200px !important;
+    background-color:rgb(243, 111, 43) !important;
+}
+
+.quote1{
+    color: white;
+    background-color:#006400;
+    font-size: 18px;
+    padding: 15px;
+
+
+
+}
+
+.quote2{
+    color: white;
+    background-color:#4682B4;
+    font-size: 18px;
+    padding: 15px;
+    
+}
+
+.quote3{
+    color: white;
+    background-color: #CD5C5C;
+    font-size: 18px;
+    padding: 15px;
+    
+}
+.colorr{
+    text-decoration: none;
+    color: #007BFF;
+    cursor: pointer;
+}
+
+.colorr:hover{
+    text-decoration: underline;
+    color: cyan;
+    cursor: pointer;
+}
+
+.col{
+    margin: 0px auto;
+    display: flex;
+    color: cornflowerblue;
+    
+}
+
+h5.primary {
+    text-align: center;
+}
+p.left.pa{
+    float: right;
+}
+/* .nav-item{
+    width: 100%;
+} */
+
+.box-shadow {
+    box-shadow: 0 3px 5px 0 rgba(0,0,0,0.05);
+    transition: box-shadow 0.3s ease-in-out;
+    padding: 5px;
+
+  }
+
+.box-shadow:hover {
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.3);
+} */
+
+
+.collapse{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar .item{
+    width: 150px;
+    line-height: 40px;
+    
+    
+}
+
+.navbar:hover{
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.1);
+}
+
+
+.dropdown-menu{
+    width: 200px;
+    
+}
+.dropdown-item{
+    padding: .25rem 0.5rem;
+    width: 100%;
+    color: rgb(60, 60, 60);
+}
+
+.jumbotron{
+    background-image: url(./backgroundimg/bg1200.jpg);
+    color: #ffffff;
+    border-radius: 1px !important;
+    
+}
+
+
+hr.liht{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+}
+
+
+
+.social a{
+    font-size: 2em;
+    padding: 1.5rem;
+}
+
+.fa-facebook{
+    color:#3b5998;
+}
+
+.fa-google{
+    color: #D44638;
+}
+
+.fa-youtube{
+    color: #bb0000;
+}
+footer{
+    padding: 20px;
+    background-color: rgba(70,130,180,0.9);
+    color: white;
+    padding-top: 0px;;
+    z-index: -99999;    
+}
+
+
+.form-inline{
+    justify-content: center;
+    padding: 5px;;
+}
+
+.img-thumbnail{
+    height: 200px;
+    width: 150px;;
+}
+
+hr.light{
+    border: 1px solid rgba(0, 0, 0, 0.2 );
+}
+img.aug{
+    width: 100%
+}
+.fas{
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.col-12{
+    width: 100%;
+    float: left;
+}
+
+div.row.wellcome.text-center{
+    max-width: 100%;
+    margin: 0px auto;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+div.d-flex{
+    /* justify-content: center !important; */
+    width: 100%;
+}
+
+.pa{
+    text-align: justify !important;
+    padding-right: 1rem;;
+}
+
+
+
+hr{
+    width: 85%;
+    border: 1px solid rgba(0, 0, 0, 0.2 );
+}
+
+.list-group{
+    padding: 5px 1rem;
+    
+}
+
+ul.list-group .text-info{
+    list-style-type: none;
+    text-align: left !important;
+}
+
+/* kdajhasdkjsahddadsadsadasdsakjdasdsandsalksklnxaxsalx */
+/*Nav*/
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+/* 
+.navbar{
+    background-color: #008080;
+} */
+
+.container ul{
+    margin:auto !important;
+    border: 2px solid white !important;
+}
+
+/*slide show*/
+.carousel-inner img{
+    width: 100%;
+}
+.caption {
+    width: 30% !important;
+    height: 80px !important;
+    background-color: dimgray;
+    opacity: 0.9;
+    color: white !important;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+
+/* Tầm nhìn và sứ mệnh */
+.quote1{
+    color: white;
+    background-color:#006400;
+    font-size: 18px;
+    padding: 15px;
+}
+.quote2{
+    color: white;
+    background-color:#4682B4;
+    font-size: 18px;
+    padding: 15px;  
+}
+.quote3{
+    color: white;
+    background-color: #CD5C5C;
+    font-size: 18px;
+    padding: 15px;  
+}
+
+
+
+/* Các số liệu ấn tượng */
+.box-object{
+    height: 90% !important;
+    width: 90% !important;
+    background-color: white;
+    border-radius: 25px;
+    font-size: 18px;
+}
+.box-object h3{
+    font-family: 'Noto Serif', serif;
+    font-style: normal;
+}
+.nenxam{
+    width:100% !important;
+    background: #DCDCDC;
+}
+
+
+/*Câu nói của người đứng đầu (đại loại vậy)*/
+.chamngon h2{
+    font-family: 'Noto Serif', serif;
+    color:#CD853F;
+}
+
+
+/*Băng rôn triết lý */
+.bangron{
+    width: 100% !important;
+    height: 35% !important;
+    background-color: darkslategrey;
+    margin: auto !important;
+}
+.bangron h2{
+    color:white !important;
+    font-family: 'Noto Serif', serif;
+}
+
+
+/* Sau tốt nghiệp*/
+
+
+
+/* clear fix thủ công */
+.fix{
+    height: 10% !important;
+    width:85% !important;
+}
+
+
+/* Nút ấn đăng ký*/
+.btn{
+    font-weight: 600 !important;
+    color: white;
+    border-radius: 20px;
+}
+.btn-primary{
+    width:140px !important;
+    height: 50px !important;
+    border-radius: 28px !important;
+    font-size:20px !important;
+}
+
+
+
+
+/* footter*/
+/* .footer {
+    width: 100% !important;
+    height: 35% !important;
+    background-color:#4682B4;
+    color: white !important;
+}
+.footer1 {
+    color: white !important;
+}
+.footer1 li{
+    text-align: left;
+    list-style-type:none;
+    height: 40px;
+} */
+
+/*Thông tin tuyển sinh*/
+
+.post-item{
+    background-color: darkgray !important;
+}
+
+
+.tuyensinh{
+    height:10% !important;
+    width: 80% !important;
+}
+
+.tuyensinh1{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+
+.zoom {
+    transition: transform .2s; /* Animation */
+    z-index: -1;
+  }
+
+.caption2{
+    width: 50% !important;
+    height: 80px !important;
+    background-color: dimgray;
+    opacity: 0.9;
+    color: white !important;
+    margin: auto;
+    border-radius: 15px;
+}

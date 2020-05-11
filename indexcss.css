@@ -1,0 +1,93 @@
+.carousel-inner img{
+    width: 100%;
+}
+
+.box-object{
+    height: 200px;
+    width: 260px;
+    background-color: white;
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.box-object h3{
+    font-family: 'Noto Serif', serif;
+    font-style: normal;
+}
+
+.chamngon h2{
+    font-family: 'Noto Serif', serif;
+    color:#CD853F;
+}
+
+.px-2 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.box-object-majoirs1 {
+    margin: 0px auto !important;
+    padding:0px 50px !important;
+}
+
+.bangron{
+    height: 350px !important;
+    background-color: darkslategrey;
+}
+
+.pt-6{
+    padding-top: 150px;
+}
+
+.bangron h2{
+    color:white !important;
+    font-family: 'Noto Serif', serif;
+}
+
+.bangron hr1{
+    color:yellow !important;
+}
+
+.btn{
+    font-weight: 600 !important;
+    color: white;
+    border-radius: 20px;
+}
+
+
+.divider{
+    margin-top:2.5em !important;
+    margin-bottom:2.5em !important;
+    max-width:200px !important;
+    background-color:rgb(243, 111, 43) !important;
+}
+
+.quote1{
+    color: white;
+    background-color:#006400;
+    font-size: 18px;
+    padding: 15px;
+
+
+
+}
+
+.quote2{
+    color: white;
+    background-color:#4682B4;
+    font-size: 18px;
+    padding: 15px;
+    
+}
+
+.quote3{
+    color: white;
+    background-color: #CD5C5C;
+    font-size: 18px;
+    padding: 15px;
+    
+}
+
+
+
+
