@@ -1,7 +1,51 @@
-<?php include_once("./header.php") ?>
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>
+                CBS.com Classify by SVM
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/Bootstrap/bootstrap.css" type="text/css">
+        
+        <script src="js/wow.js"></script>
+        <script src="js/Bootstrap/bootstrap.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="indexcss.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/animate.css" type="text/css">
+    </head>
+    <body>
+
+<!--Nav-->
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+    <div class="container-fluid">
+
+        <a class="navbar-branch" href="#"><img src="Logo/cit-group-logo.png" height="50"></a>
+                <ul class="navbar-nav m-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">TRANG CHỦ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">ĐÀO TẠO</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">NGHIÊN CỨU</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="#">TUYỂN SINH</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="#">TUYỂN SINH SĐH</a>
+                        </li>
+                </ul>
+    </div>
+</nav>
 
 <!--Carousel-->
-<div class="container pb-5 pt-5">
+        <div class="container pb-5 pt-5">
             <div id="demo" class="carousel slide" data-ride="carousel">
                 <ul class="carousel-indicators">
                     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -288,5 +332,39 @@
                     </div>
                 </div>
         </div>
-
-<?php include_once("./footer.php") ?>
+      
+<!--FOOTER-->
+        <div class="container-fluid footer pt-5 ">
+            <div class="container text-center  pb-3"><img src="Logo/cit-group-logo.png" height="5%" width="10%" ></div>
+            <div class="row text-center ">
+                <div class="col-md-3 col-sm-6 col-12 footer1"><h3>THÔNG TIN LIÊN HỆ</h3>
+                    <table class="table">
+                        <tr>
+                            <td><img src="Logo/call.jpeg" height="23" width="23"></td>
+                            <td> 84 0290 3 734713 <br> &nbsp &nbsp  0292 3 831301</td>
+                        </tr>
+                        <tr>
+                            <td><img src="Logo/mail2.png" height="24" width="24"></td>
+                            <td>office@cit.ctu.edu.vn</td>
+                        </tr>
+                        <tr>
+                            <td><img src="Logo/Fax-icon-2.png" height="23" width="23" ></td>
+                            <td>84 0393 3830841</td>
+                        </tr>
+                    </table>
+                
+                </div>
+                <div class="col-md-3 col-sm-6 col-12 footer1"><h3>ĐỊA CHỈ</h3></div>
+                <div class="col-md-3 col-sm-6 col-12 footer1"><h3>LIÊN KẾT</h3></div>
+                <div class="col-md-3 col-sm-6 col-12 footer1"><h3>THÔNG TIN</h3></div>
+            </div>
+        </div>
+    
+    
+    
+        <script>
+            new WOW().init();
+        </script>
+    
+    </body>
+</html>
